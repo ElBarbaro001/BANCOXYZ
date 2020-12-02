@@ -15,6 +15,7 @@ import java.io.DataOutputStream;
 import java.io.IOException;
 import java.io.*;
 import java.net.Socket;
+import java.applet.Applet;
 //leer por pantalla
 import java.util.Scanner;
 public class Cliente {
